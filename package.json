@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "motion": "^12.24.11",
+    "tailwindcss": "^4.1.18"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@iconify/json": "^2.2.426",
+    "@iconify/tailwind4": "^1.2.0"
+  }
+}
